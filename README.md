@@ -1,3 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Script&center=true&lines=Hello+World!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Script&center=true&lines=Hello+World!&v=20260703)
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FireflyF09&show_icons=true&theme=tokyonight)](https://github.com/FireflyF09)
+[![GitHub Stats](https://github-readme-stats-rickstaa.vercel.app/api?username=FireflyF09&show_icons=true&theme=tokyonight&cache_bust=20260703)](https://github.com/FireflyF09)
